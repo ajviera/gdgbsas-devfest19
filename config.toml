@@ -1,4 +1,27 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "GDG DevFest 2019"
 theme = "devfest-theme-hugo"
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+# googleAnalytics = "UA-XXXXXXXX-X"
+
+[params]
+    title = "GDG DevFest 2019"
+    date = "2019-11-02"
+    description = "El DevFest es el evento anual más importante de la comunidad GDG (Google Developer Groups) llevado a cabo en simultáneo, en todo el mundo, por casi 700 grupos de desarrolladores y emprendedores. El objetivo del DevFest es poner bajo un mismo techo a los mejores exponentes de las distintas herramientas disponibles en el mercado y acercar el conocimiento a nuestras comunidades locales."
+#    images = ["/images/social-share.jpg"]
+#    email = "contact@devfesttoulouse.fr"
+    keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
+    copyright = "GDG Buenos Aires 2019"
+#    cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
+#    subscriptionUrl = "http://eepurl.com/dps1j5"
+#    appleTouchIcon = "/apple-touch-icon.png"
+#    favicon32 = "/favicon-32x32.png"
+#    favicon16 = "/favicon-16x16.png"
+#    manifest = "/manifest.json"
+#    safariPinnedTab = "/safari-pinned-tab.svg"
+#   themeColor = "#673ab7"
