@@ -1,5 +1,5 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
+languageCode = "es"
 title = "GDG DevFest 2019"
 theme = "devfest-theme-hugo"
 
@@ -25,3 +25,31 @@ enableMissingTranslationPlaceholders = true
 #    manifest = "/manifest.json"
 #    safariPinnedTab = "/safari-pinned-tab.svg"
 #   themeColor = "#673ab7"
+
+#[params.logos]
+#    jumbo = "/images/logos/devfest_color_text.png"
+#    header = "/images/logos/devfest_color_text.png"
+#    footer = "/images/logos/devfest_gray_text.png"
+
+#[menu]
+#[[menu.main]]
+#    identifier = "jobs"
+#    name = "Jobs"
+#    url = "https://jobs.devfesttoulouse.fr/"
+#    weight = 200
+#    external = true
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "en"
+
+[languages.es]
+    weight = 1
+    languageName = "es"
+
+[languages.es.params]
+    description = "El DevFest es el evento anual más importante de la comunidad GDG (Google Developer Groups) llevado a cabo en simultáneo, en todo el mundo, por casi 700 grupos de desarrolladores y emprendedores. El objetivo del DevFest es poner bajo un mismo techo a los mejores exponentes de las distintas herramientas disponibles en el mercado y acercar el conocimiento a nuestras comunidades locales."
+
+[taxonomies]
+  tag = "tags"
