@@ -1,0 +1,75 @@
+##########
+# Header #
+##########
+
+[language_switch]
+other = "Basculer en"
+
+########
+# Home #
+########
+
+[home_tickets_action]
+other = "Comprar ticket"
+
+[home_tickets_soldout]
+other = "Vendido"
+
+[home_tickets_close]
+other = "No disponible"
+
+[home_location_direction]
+other = "Ubicación"
+
+##########
+# Footer #
+##########
+
+[footer_share]
+other = "Compartir"
+
+[facebook_share_label]
+other = "Compartir en Facebook"
+
+[twitter_share_text]
+other = "¡Voy a asistir al GDG DevFest 2019! Únete en https://www.meetup.com/es-ES/gdgbsas/events/265314266/"
+
+[twitter_share_label]
+other = "Compartir en Twitter"
+
+[footer_follow_blog]
+other = "Sigue nuestro"
+
+[footer_follow_blog_blog]
+other = "blog"
+
+[footer_follow_us]
+other = "Síguenos"
+
+[footer_about]
+other = "Acerca"
+
+[footer_previous_edition]
+other = "Ediciones anteriores"
+
+[footer_become_partners]
+other = "Sé un sponsor"
+
+[footer_become_partners_label]
+other = "Porpuesta de Sponsor"
+
+[footer_coc]
+other = "Código de Conducta"
+
+
+################
+# Subscription #
+################
+[newsletter]
+other = "Newsletter"
+
+[subscribe_notice]
+other = "¡Nada de spam, sólo las ultimas noticias y actualizaciones!"
+
+[subscribe_action]
+other = "Suscribirse"

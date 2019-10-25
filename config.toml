@@ -40,13 +40,13 @@ enableMissingTranslationPlaceholders = true
 #    external = true
 
 [languages]
-[languages.en]
-    weight = 1
-    languageName = "en"
-
 [languages.es]
     weight = 1
     languageName = "es"
+
+[languages.en]
+    weight = 2
+    languageName = "en"
 
 [languages.es.params]
     description = "El DevFest es el evento anual más importante de la comunidad GDG (Google Developer Groups) llevado a cabo en simultáneo, en todo el mundo, por casi 700 grupos de desarrolladores y emprendedores. El objetivo del DevFest es poner bajo un mismo techo a los mejores exponentes de las distintas herramientas disponibles en el mercado y acercar el conocimiento a nuestras comunidades locales."
